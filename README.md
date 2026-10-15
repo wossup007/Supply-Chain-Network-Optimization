@@ -88,7 +88,6 @@ Supply-Chain-Network-Optimization/
 ├── plant_ports_clean.csv
 ├── vmi_clean.csv
 └── README.md
-text---
 
 ## How to Run
 
