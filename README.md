@@ -24,8 +24,11 @@ The historical allocation was highly unbalanced — one plant handled the majori
 
 ## Dataset
 
-Real-world logistics dataset containing:
+Real-world outbound logistics dataset from a global microchip manufacturer, available on Kaggle:
 
+https://www.kaggle.com/datasets/anisseezzebdi/supply-chain-logistics-problem
+
+The dataset contains:
 - 9,215 customer orders
 - 19 plants with capacity and cost information
 - Product–plant compatibility rules
